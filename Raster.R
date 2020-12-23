@@ -1,4 +1,3 @@
-setwd("/home/ka4/Desktop/Dokumente Masterarbeit")
 require(rgdal)
 require(raster)
 require(sp)
