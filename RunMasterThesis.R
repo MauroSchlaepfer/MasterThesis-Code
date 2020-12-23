@@ -1,7 +1,7 @@
 ############ The run everything file ###########
 setwd("/home/ka4/Desktop/Dokumente Masterarbeit") # Set working directory to where the files are saved
-source("AnalysisStart.R") # "requires Data in path /home/ka4/Desktop/Dokumente Masterarbeit/Dataset.xlsx"
-source("Raster.R") # requires data from https://sedac.ciesin.columbia.edu/data/set/gpw-v3-population-density/data-download in path
+source("AnalysisStart.R") # "requires Data in path /home/ka4/Desktop/Dokumente Masterarbeit/Dataset.xlsx" (path can be changed in the "AnalysisStart.R" file)
+source("Raster.R") # requires data from https://sedac.ciesin.columbia.edu/data/set/gpw-v3-population-density/data-download in path 
 # "QGIS/eu_gpwv3_pdens_00_wrk_25/eudens00/euds00g/dblbnd.adf"
 
 ####### Exploratory Data and Graphs, also important for recoding
